@@ -23,7 +23,7 @@ Welcome to the "Todo Items" project! This is a simple, yet effective, applicatio
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YourUsername/todo-items.git
+   git clone https://github.com/RakimKai/todo-items.git
    ```
 
 2. Navigate to the project directory:
